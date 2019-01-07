@@ -5,8 +5,8 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8/"/>
 	<classpathentry kind="con" path="org.eclipse.buildship.core.gradleclasspathcontainer"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
-	<classpathentry kind="lib" path="E:/eclipse-workspace/pruebaEclipse/Ejercicio44Iker/libraries/mockito-all-1.8.4.jar" sourcepath="libraries"/>
-	<classpathentry kind="lib" path="E:/eclipse-workspace/pruebaEclipse/Ejercicio44Iker/libraries/mockito-core-2.7.22-sources.jar" sourcepath="libraries"/>
-	<classpathentry kind="lib" path="E:/eclipse-workspace/pruebaEclipse/Ejercicio44Iker/libraries/powermock-mockito-release-full-1.5.4-full.jar" sourcepath="libraries"/>
+	<classpathentry kind="lib" path="libraries/mockito-all-1.8.4.jar" sourcepath="libraries"/>
+	<classpathentry kind="lib" path="libraries/mockito-core-2.7.22-sources.jar" sourcepath="libraries"/>
+	<classpathentry kind="lib" path="libraries/powermock-mockito-release-full-1.5.4-full.jar" sourcepath="libraries"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
